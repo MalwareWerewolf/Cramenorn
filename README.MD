@@ -4,7 +4,7 @@ My name is Davide Dolce aka Cramenorn and I'm a software developer. I'm from Ita
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [ddolce.com](https://ddolce.com).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [malwarewerewolf.com](https://malwarewerewolf.com/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
