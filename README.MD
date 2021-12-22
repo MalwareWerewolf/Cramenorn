@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Davide Dolce aka Cramenorn and I'm a software developer. I'm from Italy, living in Turin and currently working at Accenture. You can find me on [twitter](https://twitter.com/dvdolce) or on [linkedin](https://www.linkedin.com/in/ddolce).
+My name is Davide Dolce aka Malware Werewolf and I'm a software developer.
 
 ## &#x270d; Blog & Writing
 
