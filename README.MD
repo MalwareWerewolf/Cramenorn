@@ -25,16 +25,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Framework-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MalwareWerewolf/MalwareWerewolf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalwareWerewolf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MalwareWerewolf/MalwareWerewolf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalwareWerewolf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MalwareWerewolf/raptorsa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalwareWerewolf&repo=raptorsa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
